@@ -1,2 +1,2 @@
-# AnroidDiceRoll
+# AndroidDiceRoll
 Simple Dice Roll 
